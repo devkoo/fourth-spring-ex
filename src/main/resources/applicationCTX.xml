@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="pencil" class="com.javalec.ex.Pencil6BWithEraser" /> 
+	<!-- 자바파일 아무것도 바꿀 필요없이 config 파일만 수정해 주면 된다 -->
+	
+</beans>
